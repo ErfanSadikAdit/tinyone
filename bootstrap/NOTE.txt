@@ -1,0 +1,43 @@
+FONT FAMILY ----------
+"PT Sans", sans-serif;
+
+FONTS COLOR----------
+black : #010101
+ash : #898989
+yellow : #fcdb00
+
+FONT SANS:
+REGULAR AND BOLD
+
+======================
+xxl   1440 - 1600- 1800 - 2100
+xl    1200
+lg    1024
+
+
+md    768
+
+sm    576  
+col   320
+
+
+header----------------------
+
+               XXL/XL/LG           MD        SM/COL
+menu             22                22
+
+
+SLIDER------------------------
+
+                XXL/XL/LG           MD        SM/COL    
+               
+
+
+padding ------------------------
+
+
+SLIDER------------------------
+
+   
+                          XXL/XL/LG           MD        SM/COL    
+ header-top-bottom            20              20
